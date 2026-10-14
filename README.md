@@ -110,7 +110,8 @@ mcd-assistant/
 ├── CONTEST_DECLARATION.md       # 参赛声明（官方原文，不可修改）
 ├── MCP_INTEGRATION.md           # MCP Server / Tool / 调用流程 / 业务价值
 ├── mcp-config.example.json      # 脱敏 MCP 配置（仅环境变量占位符）
-└── workbuddy.md                 # WorkBuddy 开发对话上下文
+├── workbuddy.md                 # WorkBuddy 开发对话上下文
+└── LICENSE.md                   # MIT 开源许可
 ```
 
 ## 安装方法
